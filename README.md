@@ -8,6 +8,9 @@ These special boomers all mastered one of the Elements of RimWorld: Smoke, Firef
 Want to use boomers to your tactical advantage against mechanoids? You can. If you want, you can even use them to protect your base against fire! Let the boomies do the fighting for you--- but beware manhunter packs.
 
 Original [Elemental Boomalopes](https://steamcommunity.com/sharedfiles/filedetails/?id=938052209&searchtext=elemental) by Mehni
+
 B18 update made possible by HarryDicks
+
 v1.0 update by Alias
+
 v1.1, v1.2 and Elemental Boomrats (1.1 and up) update by Timmotus
