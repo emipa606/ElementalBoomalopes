@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Elemental-Boomers\.git</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Elemental-Boomers\About\preview.psd</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Elemental-Boomers\excludedfiles.txt</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Elemental-Boomers\release.bat</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Elemental-Boomers\Source</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Elemental-Boomers\Textures\Things\Pawn\Animal\Elemental Boomrats PSD</exclude>
+  </Excluded>
+</Configuration>

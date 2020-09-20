@@ -1,5 +1,5 @@
 # Elemental-Boomers
-A continuation of [Elemental Boomalopes](https://steamcommunity.com/sharedfiles/filedetails/?id=938052209&searchtext=elemental) by Mehni
+A continuation of [Elemental Boomalopes](https://steamcommunity.com/sharedfiles/filedetails/?id=938052209) by Mehni
 
 Boomers that do more than go boom.
 
@@ -7,7 +7,7 @@ These special boomers all mastered one of the Elements of RimWorld: Smoke, Firef
 
 Want to use boomers to your tactical advantage against mechanoids? You can. If you want, you can even use them to protect your base against fire! Let the boomies do the fighting for you--- but beware manhunter packs.
 
-Original [Elemental Boomalopes](https://steamcommunity.com/sharedfiles/filedetails/?id=938052209&searchtext=elemental) by Mehni
+Original [Elemental Boomalopes](https://steamcommunity.com/sharedfiles/filedetails/?id=938052209) by Mehni
 
 B18 update made possible by HarryDicks
 
