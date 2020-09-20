@@ -1,12 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Elemental Boomalopes</name>
-  <author>Mehni, Harry Dicks, Alias and Timmotus</author>
-  <description>Boomalopes that do more than go boom. Ask your boomalope dealer today!</description>
-  <url>https://ludeon.com/forums/index.php?topic=35832</url>
+	<name>Elemental Boomers</name>
+	<author>Timmotus</author>
+	<packageId>Timmotus.ElementalBoomers</packageId>
+	<description>Boomers that do more than go boom. Ask your boomer dealer today!
+
+Continuation of Elemental Boomalopes by Mehni</description>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
 		<li>1.2</li>
 	</supportedVersions>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+	</loadAfter>
 </ModMetaData>

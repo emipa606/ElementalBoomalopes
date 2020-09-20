@@ -6,7 +6,7 @@ using System.Threading;
 using RimWorld;
 using Verse;
 
-namespace Elemental_Boomalopes {
+namespace Elemental_Boomers {
     public class Alope {
         public static float DeathRadius(int lifeStage) {
             float radius;

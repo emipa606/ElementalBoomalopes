@@ -10,7 +10,7 @@
     <label>foamalope</label>
     <description>Engineered for chemicals production, the foamalope grows a large sac of sticky chemicals in its hump. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge mess it leaves when it dies.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_BigExplosion_FireFoam</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_BigExplosion_FireFoam</deathActionWorkerClass>
     </race>
   </ThingDef>
 
@@ -72,25 +72,25 @@
     </lifeStages>
   </PawnKindDef>
 
-<!-- ============EMPalumpalope============= -->
+<!-- ============Shockalope============= -->
 
   <ThingDef ParentName="AnimalThingBaseAlope">
-    <defName>EMPalumpalope</defName>
-    <label>EMPalumpalope</label>
-    <description>Engineered for electrical production, the EMPalumpalope passively generates a large amount of static electricity. Though it is weak and fragile for its size, other animals have learned to avoid it because of the prickly mouth sensation it leaves.</description>
+    <defName>Shockalope</defName>
+    <label>shockalope</label>
+    <description>Engineered for electrical production, the shockalope passively generates a large amount of static electricity. Though it is weak and fragile for its size, other animals have learned to avoid it because of the prickly mouth sensation it leaves.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_BigExplosion_EMP</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_BigExplosion_EMP</deathActionWorkerClass>
     </race>
   </ThingDef>
 
   <PawnKindDef ParentName="AnimalKindBaseAlope">
-    <defName>EMPalumpalope</defName>
-    <label>EMPalumpalope</label>
-    <race>EMPalumpalope</race>
+    <defName>Shockalope</defName>
+    <label>shockalope</label>
+    <race>Shockalope</race>
     <lifeStages Inherit="False">
       <li>
-        <label>EMPalumpalope calf</label>
-        <labelPlural>EMPalumpalope calves</labelPlural>
+        <label>shockalope calf</label>
+        <labelPlural>shockalope calves</labelPlural>
         <bodyGraphicData>
           <texPath>Things/Pawn/Animal/Elemental Boomalopes/Basealope</texPath>
           <color>(110,195,229)</color>
@@ -148,7 +148,7 @@
     <label>poofalope</label>
     <description>Long forgotten why or how it ever came to be, the poofalope is generally looked down upon as useless. Though it is weak and lightweight for its size, technically no one has ever seen a poofalope die.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_BigExplosion_Smoke</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_BigExplosion_Smoke</deathActionWorkerClass>
     </race>
   </ThingDef>
 
@@ -217,7 +217,7 @@
     <label>uhmalope</label>
     <description>Engineered as a practical joke between colleagues, the uhmalope grows a large sac of stunning chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the headache it leaves when it dies.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_BigExplosion_Stun</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_BigExplosion_Stun</deathActionWorkerClass>
     </race>
   </ThingDef>
 

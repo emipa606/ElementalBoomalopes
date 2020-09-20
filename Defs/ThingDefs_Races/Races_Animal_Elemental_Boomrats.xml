@@ -10,7 +10,7 @@
     <label>foamrat</label>
     <description>Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create quite the sticky mess when killed.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_SmallExplosion_FireFoam</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_SmallExplosion_FireFoam</deathActionWorkerClass>
     </race>
   </ThingDef>
 
@@ -67,7 +67,7 @@
     <label>shockrat</label>
     <description>Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful shock when killed.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_SmallExplosion_EMP</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_SmallExplosion_EMP</deathActionWorkerClass>
     </race>
   </ThingDef>
 
@@ -124,7 +124,7 @@
     <label>poofrat</label>
     <description>Long forgotten why or how it ever came to be, the poofrat is generally looked down upon as useless due to being small and weak. Technically no one has ever seen a poofrat die.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_SmallExplosion_Smoke</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_SmallExplosion_Smoke</deathActionWorkerClass>
     </race>
   </ThingDef>
 
@@ -181,7 +181,7 @@
     <label>uhmarat</label>
     <description>Engineered as a practical joke between colleagues, these rodent-like creatures leave quite the headache when killed.</description>
     <race>
-	  <deathActionWorkerClass>Elemental_Boomalopes.DeathActionWorker_SmallExplosion_Stun</deathActionWorkerClass>
+	  <deathActionWorkerClass>Elemental_Boomers.DeathActionWorker_SmallExplosion_Stun</deathActionWorkerClass>
     </race>
   </ThingDef>
 
