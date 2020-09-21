@@ -35,7 +35,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Elemental Boomats/Baserat</texPath>
+          <texPath>Things/Pawn/Animal/Elemental Boomrats/Baserat</texPath>
           <color>(255,92,86)</color>
           <drawSize>1.0</drawSize>
           <shaderType>CutoutComplex</shaderType>
