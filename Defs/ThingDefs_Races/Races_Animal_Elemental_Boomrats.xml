@@ -29,7 +29,7 @@
           <shaderType>CutoutComplex</shaderType>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomarat</texPath>
+          <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomrat</texPath>
           <drawSize>0.80</drawSize>
         </dessicatedBodyGraphicData>
       </li>
