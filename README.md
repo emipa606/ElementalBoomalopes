@@ -13,4 +13,4 @@ B18 update made possible by HarryDicks
 
 v1.0 update by Alias
 
-v1.1, v1.2 and Elemental Boomrats (1.1 and up) update by Timmotus
+v1.1, v1.2, v1.3 and Elemental Boomrats (1.1 and up) update by Timmotus
