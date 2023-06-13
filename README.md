@@ -3,7 +3,8 @@
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Mehni, Harry Dicks, and Aliass mod https://steamcommunity.com/sharedfiles/filedetails/?id=938052209
-based on Timmotus updated version https://steamcommunity.com/sharedfiles/filedetails/?id=2234381087
+based on Timmotus updated version 
+https://steamcommunity.com/sharedfiles/filedetails/?id=2234381087
 
 - v1.1, v1.2, v1.3 and Elemental Boomrats (1.1 and up) update by Timmotus
 - Added a toxic version if Biotech is active, changed the smoke-version to gray
@@ -21,8 +22,6 @@ Want to use boomalopes to your tactical advantage against mechanoids? You can. I
 
 This 1.0 version has been made possible by Alias.
 
-Github: https://github.com/Mehni/Elemental-Boomalopes
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
@@ -35,3 +34,4 @@ Github: https://github.com/Mehni/Elemental-Boomalopes
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2988725537]Last updated 2023-06-13

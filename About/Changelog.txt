@@ -1,4 +1,7 @@
 # Changelog for ElementalBoomalopes
 
+1.4.2 - Readded the source-images
+
+
 1.4.1 - Updated to 1.4, added toxic version
 
