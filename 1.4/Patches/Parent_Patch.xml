@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Patch>
+  <!-- ============Elemental Rats============= -->
   <Operation Class="PatchOperationAttributeAdd">
-    <xpath>Defs/ThingDef[defName="Boomalope"]</xpath>
+    <xpath>Defs/ThingDef[defName="Boomrat"]</xpath>
     <attribute>Name</attribute>
-    <value>AnimalThingBaseAlope</value>
+    <value>AnimalThingBaseErat</value>
   </Operation>
   <Operation Class="PatchOperationAttributeAdd">
-    <xpath>Defs/PawnKindDef[defName="Boomalope"]</xpath>
+    <xpath>Defs/PawnKindDef[defName="Boomrat"]</xpath>
     <attribute>Name</attribute>
-    <value>AnimalKindBaseAlope</value>
+    <value>AnimalKindBaseErat</value>
   </Operation>
 </Patch>

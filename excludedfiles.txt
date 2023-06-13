@@ -1,6 +1,0 @@
-.psd
-Source\
-.git\
-.gitignore
-release.bat
-excludedfiles.txt

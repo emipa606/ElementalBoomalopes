@@ -1,0 +1,12 @@
+﻿using RimWorld;
+using Verse;
+
+namespace Elemental_Boomers;
+
+public class DeathActionWorker_SmallExplosion_Stun : DeathActionWorker
+{
+    public override void PawnDied(Corpse corpse)
+    {
+        GenExplosion.DoExplosion(corpse.Position, corpse.Map, Erat.DeathRadius, DamageDefOf.Stun, corpse.InnerPawn);
+    }
+}
