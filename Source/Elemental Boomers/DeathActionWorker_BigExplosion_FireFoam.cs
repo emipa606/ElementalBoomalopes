@@ -1,11 +1,12 @@
 ﻿using RimWorld;
 using Verse;
+using Verse.AI.Group;
 
 namespace Elemental_Boomers;
 
 public class DeathActionWorker_BigExplosion_FireFoam : DeathActionWorker
 {
-    public override void PawnDied(Corpse corpse)
+    public override void PawnDied(Corpse corpse, Lord prevLord)
     {
         var radius = Alope.DeathRadius(corpse.InnerPawn.ageTracker.CurLifeStageIndex);
         var filthFireFoam = ThingDefOf.Filth_FireFoam;
