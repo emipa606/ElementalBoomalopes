@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: foamrat -->
+  <Foamrat.label>foamrat</Foamrat.label>
+  <!-- EN: foamrat calf -->
+  <Foamrat.lifeStages.foamrat_calf.label>foamrat calf</Foamrat.lifeStages.foamrat_calf.label>
+  <!-- EN: foamrat calves -->
+  <Foamrat.lifeStages.foamrat_calf.labelPlural>foamrat calves</Foamrat.lifeStages.foamrat_calf.labelPlural>
+  <!-- EN: pollutrat -->
+  <Pollutrat.label>pollutrat</Pollutrat.label>
+  <!-- EN: pollutrat calf -->
+  <Pollutrat.lifeStages.pollutrat_calf.label>pollutrat calf</Pollutrat.lifeStages.pollutrat_calf.label>
+  <!-- EN: pollutrat calves -->
+  <Pollutrat.lifeStages.pollutrat_calf.labelPlural>pollutrat calves</Pollutrat.lifeStages.pollutrat_calf.labelPlural>
+  <!-- EN: poofrat -->
+  <Poofrat.label>poofrat</Poofrat.label>
+  <!-- EN: poofrat calf -->
+  <Poofrat.lifeStages.poofrat_calf.label>poofrat calf</Poofrat.lifeStages.poofrat_calf.label>
+  <!-- EN: poofrat calves -->
+  <Poofrat.lifeStages.poofrat_calf.labelPlural>poofrat calves</Poofrat.lifeStages.poofrat_calf.labelPlural>
+  <!-- EN: shockrat -->
+  <Shockrat.label>shockrat</Shockrat.label>
+  <!-- EN: shockrat calf -->
+  <Shockrat.lifeStages.shockrat_calf.label>shockrat calf</Shockrat.lifeStages.shockrat_calf.label>
+  <!-- EN: shockrat calves -->
+  <Shockrat.lifeStages.shockrat_calf.labelPlural>shockrat calves</Shockrat.lifeStages.shockrat_calf.labelPlural>
+  <!-- EN: uhmarat -->
+  <Uhmarat.label>uhmarat</Uhmarat.label>
+  <!-- EN: uhmarat calf -->
+  <Uhmarat.lifeStages.uhmarat_calf.label>uhmarat calf</Uhmarat.lifeStages.uhmarat_calf.label>
+  <!-- EN: uhmarat calves -->
+  <Uhmarat.lifeStages.uhmarat_calf.labelPlural>uhmarat calves</Uhmarat.lifeStages.uhmarat_calf.labelPlural>
+</LanguageData>

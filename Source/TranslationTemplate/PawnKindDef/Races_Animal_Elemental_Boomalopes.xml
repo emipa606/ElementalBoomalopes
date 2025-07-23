@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: foamalope -->
+  <Foamalope.label>foamalope</Foamalope.label>
+  <!-- EN: foamalope calf -->
+  <Foamalope.lifeStages.foamalope_calf.label>foamalope calf</Foamalope.lifeStages.foamalope_calf.label>
+  <!-- EN: foamalope calves -->
+  <Foamalope.lifeStages.foamalope_calf.labelPlural>foamalope calves</Foamalope.lifeStages.foamalope_calf.labelPlural>
+  <!-- EN: pollutalope -->
+  <Pollutalope.label>pollutalope</Pollutalope.label>
+  <!-- EN: pollutalope calf -->
+  <Pollutalope.lifeStages.pollutalope_calf.label>pollutalope calf</Pollutalope.lifeStages.pollutalope_calf.label>
+  <!-- EN: pollutalope calves -->
+  <Pollutalope.lifeStages.pollutalope_calf.labelPlural>pollutalope calves</Pollutalope.lifeStages.pollutalope_calf.labelPlural>
+  <!-- EN: poofalope -->
+  <Poofalope.label>poofalope</Poofalope.label>
+  <!-- EN: poofalope calf -->
+  <Poofalope.lifeStages.poofalope_calf.label>poofalope calf</Poofalope.lifeStages.poofalope_calf.label>
+  <!-- EN: poofalope calves -->
+  <Poofalope.lifeStages.poofalope_calf.labelPlural>poofalope calves</Poofalope.lifeStages.poofalope_calf.labelPlural>
+  <!-- EN: shockalope -->
+  <Shockalope.label>shockalope</Shockalope.label>
+  <!-- EN: shockalope calf -->
+  <Shockalope.lifeStages.shockalope_calf.label>shockalope calf</Shockalope.lifeStages.shockalope_calf.label>
+  <!-- EN: shockalope calves -->
+  <Shockalope.lifeStages.shockalope_calf.labelPlural>shockalope calves</Shockalope.lifeStages.shockalope_calf.labelPlural>
+  <!-- EN: uhmalope -->
+  <Uhmalope.label>uhmalope</Uhmalope.label>
+  <!-- EN: uhmalope calf -->
+  <Uhmalope.lifeStages.uhmalope_calf.label>uhmalope calf</Uhmalope.lifeStages.uhmalope_calf.label>
+  <!-- EN: uhmalope calves -->
+  <Uhmalope.lifeStages.uhmalope_calf.labelPlural>uhmalope calves</Uhmalope.lifeStages.uhmalope_calf.labelPlural>
+</LanguageData>

@@ -2,5 +2,17 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 6505,
+  "LinesOfXML": 27400,
+  "CodeBaseSize": 72,
+  "LastXmlCleaning": "2025-07-23T17:14:38.0050612+02:00",
+  "SocialImageSet": true,
+  "SearchTags": [
+    " elementals",
+    " animals"
+  ]
 }

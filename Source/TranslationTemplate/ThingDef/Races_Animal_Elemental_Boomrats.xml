@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: foamrat -->
+  <Foamrat.label>foamrat</Foamrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create quite the sticky mess when killed. -->
+  <Foamrat.description>Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create quite the sticky mess when killed.</Foamrat.description>
+  <!-- EN: left claw -->
+  <Foamrat.tools.left_claw.label>left claw</Foamrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Foamrat.tools.left_claw.labelNoLocation>claw</Foamrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Foamrat.tools.right_claw.label>right claw</Foamrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Foamrat.tools.right_claw.labelNoLocation>claw</Foamrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Foamrat.tools.head.label>head</Foamrat.tools.head.label>
+  <!-- EN: pollutrat -->
+  <Pollutrat.label>pollutrat</Pollutrat.label>
+  <!-- EN: These strange creatures actually bind toxicity from the air and store it inside. It does not seem to get harmed by this but it does not seem to use the gas either. -->
+  <Pollutrat.description>These strange creatures actually bind toxicity from the air and store it inside. It does not seem to get harmed by this but it does not seem to use the gas either.</Pollutrat.description>
+  <!-- EN: left claw -->
+  <Pollutrat.tools.left_claw.label>left claw</Pollutrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Pollutrat.tools.left_claw.labelNoLocation>claw</Pollutrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Pollutrat.tools.right_claw.label>right claw</Pollutrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Pollutrat.tools.right_claw.labelNoLocation>claw</Pollutrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Pollutrat.tools.head.label>head</Pollutrat.tools.head.label>
+  <!-- EN: poofrat -->
+  <Poofrat.label>poofrat</Poofrat.label>
+  <!-- EN: Long forgotten why or how it ever came to be, the poofrat is generally looked down upon as useless due to being small and weak. Technically no one has ever seen a poofrat die. -->
+  <Poofrat.description>Long forgotten why or how it ever came to be, the poofrat is generally looked down upon as useless due to being small and weak. Technically no one has ever seen a poofrat die.</Poofrat.description>
+  <!-- EN: left claw -->
+  <Poofrat.tools.left_claw.label>left claw</Poofrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Poofrat.tools.left_claw.labelNoLocation>claw</Poofrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Poofrat.tools.right_claw.label>right claw</Poofrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Poofrat.tools.right_claw.labelNoLocation>claw</Poofrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Poofrat.tools.head.label>head</Poofrat.tools.head.label>
+  <!-- EN: shockrat -->
+  <Shockrat.label>shockrat</Shockrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful shock when killed. -->
+  <Shockrat.description>Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful shock when killed.</Shockrat.description>
+  <!-- EN: left claw -->
+  <Shockrat.tools.left_claw.label>left claw</Shockrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Shockrat.tools.left_claw.labelNoLocation>claw</Shockrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Shockrat.tools.right_claw.label>right claw</Shockrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Shockrat.tools.right_claw.labelNoLocation>claw</Shockrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Shockrat.tools.head.label>head</Shockrat.tools.head.label>
+  <!-- EN: uhmarat -->
+  <Uhmarat.label>uhmarat</Uhmarat.label>
+  <!-- EN: Engineered as a practical joke between colleagues, these rodent-like creatures leave quite the headache when killed. -->
+  <Uhmarat.description>Engineered as a practical joke between colleagues, these rodent-like creatures leave quite the headache when killed.</Uhmarat.description>
+  <!-- EN: left claw -->
+  <Uhmarat.tools.left_claw.label>left claw</Uhmarat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Uhmarat.tools.left_claw.labelNoLocation>claw</Uhmarat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Uhmarat.tools.right_claw.label>right claw</Uhmarat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Uhmarat.tools.right_claw.labelNoLocation>claw</Uhmarat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Uhmarat.tools.head.label>head</Uhmarat.tools.head.label>
+</LanguageData>
