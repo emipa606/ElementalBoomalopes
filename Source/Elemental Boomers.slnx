@@ -6,4 +6,15 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="Elemental Boomers/Elemental Boomers.csproj" />
+  <Folder Name="/XML/1.7/Defs/ThingDefs_Races/">
+    <File Path="../1.7/Defs/ThingDefs_Races/Races_Animal_Elemental_Boomalopes.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Races/Races_Animal_Elemental_Boomrats.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Patches/">
+    <File Path="../1.7/Patches/Biome_Patch.xml" />
+    <File Path="../1.7/Patches/Parent_Patch.xml" />
+  </Folder>
 </Solution>
